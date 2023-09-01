@@ -7,4 +7,5 @@ site:
   github:
     is_project_page: false
 show_downloads: false
+show_repository_url: false
   
